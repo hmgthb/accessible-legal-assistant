@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-huggingface
+
+faiss-cpu
+transformers
+sentence-transformers
+
+openai
+tqdm
+numpy
+pandas
+python-dotenv
